@@ -1,4 +1,7 @@
 <h1 align="center"><b>Hi , I'm GumeeR </b><img src="https://media1.giphy.com/media/YLICOWbJzy9uU6Ofi7/giphy.gif?cid=ecf05e47pf380kl3sz7av44is63se7bou6ivsky55xiutx7k&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
 
 <!--
