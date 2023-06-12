@@ -1,4 +1,5 @@
-<h1 align="center"><b>Hi , I'm GumeeR </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm GumeeR </b><img src="https://media1.giphy.com/media/YLICOWbJzy9uU6Ofi7/giphy.gif?cid=ecf05e47pf380kl3sz7av44is63se7bou6ivsky55xiutx7k&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"></h1>
+
 
 <!--
 **GumeeR/GumeeR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
