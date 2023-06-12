@@ -27,6 +27,16 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   
+  ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+I am Computer science and Engineering student. C, C++, Python y Javascript are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+
+🌱 I’m currently learning ...
+Java and React js
+
+📫 Reach out to me at: mayorquin07@hotmail.es
+
+  
  <h4
 <a href="https://www.linkedin.com/in/juan-mayorquin-villa-ab8120214/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
