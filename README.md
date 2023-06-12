@@ -4,6 +4,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineer..&hearts;++;Self-taught+BackEnd+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
   
+  ## <img src="https://media4.giphy.com/media/LDYXy1sBgJMkhXL6ur/giphy.gif?cid=ecf05e47422a35333a6f049ab05beb627e1514501197116d&ep=v1_gifs_gifId&rid=giphy.gif&ct=s" width="30px">&nbsp;***About me***
+
+I am Computer science and Engineering student. C, C++, Python y Javascript are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+
+🌱 I’m currently learning ...
+Java and React js
+
+📫 Reach out to me at: mayorquin07@hotmail.es
+  
   <h3 align="left">Languages and Tools:</h3>
   
 <p align="left"> 
@@ -26,15 +35,6 @@
       width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  
-  ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-
-I am Computer science and Engineering student. C, C++, Python y Javascript are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-
-🌱 I’m currently learning ...
-Java and React js
-
-📫 Reach out to me at: mayorquin07@hotmail.es
 
   
  <h4
