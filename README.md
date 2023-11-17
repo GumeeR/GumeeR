@@ -6,7 +6,7 @@
   
   ## &nbsp;***About me*** <img src="https://media4.giphy.com/media/LDYXy1sBgJMkhXL6ur/giphy.gif?cid=ecf05e47422a35333a6f049ab05beb627e1514501197116d&ep=v1_gifs_gifId&rid=giphy.gif&ct=s" width="30px">
 
-I am Computer science and Engineering student. C, C++,C# and .NET are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am a systems engineering student. C, C++ and C# are the programming languages ​​I am good at. I love learning and building something new, productive, innovative and creative.
 
   I’m currently learning ...
 Rust
@@ -24,24 +24,6 @@ Rust
     Hobbies: ["Movies"], ["Coding"], ["Gaming"], ["Music"]
     Languages: ["Spanish"], ["English US"]
 ```
-  <h3 align="left">Languages and Tools:</h3>
-  
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> 
-  <img
-        /> </a> 
   
  <h4>
 <a href="https://www.linkedin.com/in/juan-mayorquin-villa-ab8120214/" target="_blank">
@@ -54,17 +36,3 @@ Rust
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
   </h4>
-<!--
-**GumeeR/GumeeR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
