@@ -6,10 +6,10 @@
   
   ## &nbsp;***About me*** <img src="https://media4.giphy.com/media/LDYXy1sBgJMkhXL6ur/giphy.gif?cid=ecf05e47422a35333a6f049ab05beb627e1514501197116d&ep=v1_gifs_gifId&rid=giphy.gif&ct=s" width="30px">
 
-I am a systems engineering student. C, C++ and C# are the programming languages ​​I am good at. I love learning and building something new, productive, innovative and creative.
+I am a systems engineering student. Rust, Python and C#/.Net are the programming languages ​​I am good at. I love learning and building something new, productive, innovative and creative.
 
   I’m currently learning ...
-Rust
+Backend Software Architecture
 
 🦝 Reach out to me at: mayorquin07@hotmail.es
 
