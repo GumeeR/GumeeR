@@ -20,7 +20,7 @@ Backend Software Architecture
     Lastname: Mayorquin
     Nickname: GumeeR
     Gender: Male
-    Age: 19
+    Age: 20
     Hobbies: ["Movies"], ["Coding"], ["Gaming"], ["Music"]
     Languages: ["Spanish"], ["English US"]
 ```
