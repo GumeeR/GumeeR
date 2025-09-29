@@ -27,7 +27,7 @@ Desarrollador Full Stack apasionado por la IA y la automatización. Me especiali
 ```python
 tech_stack = {
     "Backend": ["Python", "Node.js", "Rust"],
-    "Frontend": ["React", "JavaScript", "HTML5/CSS3"],
+    "Frontend": ["Angular", "JavaScript", "HTML5/CSS3"],
     "IA & Automatización": ["LLM Models", "Bot Development", "Process Automation"],
     "Bases de Datos": ["SQL", "MongoDB"],
     "DevOps": ["Git", "Docker", "CI/CD"],
