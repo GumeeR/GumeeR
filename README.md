@@ -1,36 +1,91 @@
 <div align="center">
-<h1>Juan Mayorquin | GumeeR <img src="https://media1.giphy.com/media/YLICOWbJzy9uU6Ofi7/giphy.gif?cid=ecf05e47pf380kl3sz7av44is63se7bou6ivsky55xiutx7k&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"></h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=+Full+Stack+Developer;+Especialista+en+IA+y+Automatización;🚀+Desarrollador+de+Soluciones+Innovadoras">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Juan+%F0%9F%A6%9D;Software+Developer+%C2%B7+Backend+%26+Applied+AI;LLM-powered+automation+%26+data+processing;Building+SaaS+%2B+Web3+experiments" alt="typing" />
+
+<p>
+  <a href="https://gumeer.github.io/GumeRPortafolio.github.aio/"><img src="https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=vercel&logoColor=a78bfa" /></a>
+  <a href="https://www.linkedin.com/in/juan-mayorquin-villa-ab8120214/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Miu_tw0"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:Mayorquin07@hotmail.es"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=GumeeR&style=for-the-badge&color=a78bfa&label=Profile+views" />
 </p>
 
-## Sobre mí
+</div>
 
-Desarrollador Full Stack apasionado por la IA y la automatización. Me especializo en crear soluciones innovadoras que combinan tecnologías modernas con sistemas automatizados inteligentes. Actualmente enfocado en:
-- 🤖 Desarrollo de bots y sistemas de automatización
-- 🧠 Implementación de soluciones con IA
-- 🌐 Arquitectura de software Backend
-- ⚡ Optimización de procesos mediante tecnología
+---
 
- <h4>
-<a href="https://www.linkedin.com/in/juan-mayorquin-villa-ab8120214/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Miu_tw0" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-  </h4>
+## 🦝 About me
 
+**Software developer** with 3+ years shipping automation, backend services and applied AI — from analysis to production.
 
-## 🛠️ Stack Tecnológico
+- 🤖 **LLM-powered automation** — document classification, content summarization, large-scale data processing pipelines
+- 💬 **Multi-platform chatbots** with semantic search and transformer embeddings over large-scale databases
+- 🔐 **On-prem LLM deployments** (LLaMA-3.1-405B) focused on privacy and confidentiality
+- ⛓️ **Web3** — experiments on Polkadot, Substrate, Moonbeam, NEAR, Rust + WASM
+- 🧱 **Clean architecture** — SOLID · Clean Architecture · SCRUM · CI/CD · Unit Testing
+
+> *"Turn ugly processes into elegant software."*
+
+📍 Bogotá, Colombia · 🎓 Systems Engineering @ EAN · 💼 100% available — open to new roles
+
+---
+
+## 🛠️ Stack
 
 ```python
 tech_stack = {
-    "Backend": ["Python", "Node.js", "Rust"],
-    "Frontend": ["Angular", "JavaScript", "HTML5/CSS3"],
-    "IA & Automatización": ["LLM Models", "Bot Development", "Process Automation"],
-    "Bases de Datos": ["SQL", "MongoDB"],
-    "DevOps": ["Git", "Docker", "CI/CD"],
-    "Herramientas": ["VS Code", "PyCharm", "Postman"]
+    "languages":   ["Python", "TypeScript", "Rust", "C# / .NET", "PHP / Symfony", "SQL", "JavaScript"],
+    "ai":          ["LLMs (LLaMA-3.1-405B, GPT)", "LangChain", "HuggingFace", "RAG", "Embeddings"],
+    "backend":     ["REST APIs", "Node.js", "Laravel", "Symfony", "PostgreSQL", "SQL Server"],
+    "blockchain":  ["Polkadot", "Substrate", "Moonbeam", "NEAR", "WASM", "Smart Contracts"],
+    "data":        ["Power BI", "Power Automate", "Pandas", "SharePoint"],
+    "devops":      ["Git", "Docker", "CI/CD"],
+    "principles":  ["SOLID", "Clean Architecture", "SCRUM", "Unit Testing"],
 }
+```
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,rust,cs,php,javascript,nodejs,laravel,symfony,postgres,mysql,docker,git,linux,vscode&perline=15" />
+</p>
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GumeeR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=a78bfa&icon_color=22d3ee&text_color=b4b4b8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GumeeR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=a78bfa&text_color=b4b4b8&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GumeeR&theme=tokyonight&hide_border=true&background=0a0a0b&stroke=0a0a0b&ring=a78bfa&fire=22d3ee&currStreakLabel=a78bfa" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=GumeeR&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+- ✅ **AI Software Engineer** · Platzi · 2026
+- ✅ **Leadership with AI** · LinkedIn Learning · 2025
+- ✅ **NodeJS: RestServer with Clean Architecture** · Fernando Herrera · 2025
+- ✅ **Power BI PL-300** · Tabular Data Modeling Fundamentals · 2024
+- ✅ **Data Exploration and Analysis with Python** · Microsoft · 2024
+
+---
+
+## 💼 Current experience
+
+- **CEO & Founder** @ **EfiRest COL** — SaaS CRM for restaurants (Jun 2025 — present)
+---
+
+<div align="center">
+
+### Let's build something together
+
+[🌐 Portfolio](https://gumeer.github.io/GumeRPortafolio.github.aio/) · [💼 LinkedIn](https://www.linkedin.com/in/juan-mayorquin-villa-ab8120214/) · [📧 Email](mailto:Mayorquin07@hotmail.es) · [💬 WhatsApp](https://wa.me/573202100736)
+
+<sub>🦝 Made with caffeine + curiosity in Bogotá.</sub>
+
+</div>
