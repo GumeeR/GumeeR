@@ -16,9 +16,9 @@
 
 ## 🦝 About me
 
-**Software developer** with 3+ years shipping automation, backend services and applied AI — from analysis to production.
+**Software developer** with 5+ years shipping automation, backend services and applied AI — from analysis to production.
 
-- 🤖 **LLM-powered automation** — document classification, content summarization, large-scale data processing pipelines
+- 🤖 **LLM-powered automation** — document classificat5on, content summarization, large-scale data processing pipelines
 - 💬 **Multi-platform chatbots** with semantic search and transformer embeddings over large-scale databases
 - 🔐 **On-prem LLM deployments** (LLaMA-3.1-405B) focused on privacy and confidentiality
 - ⛓️ **Web3** — experiments on Polkadot, Substrate, Moonbeam, NEAR, Rust + WASM
